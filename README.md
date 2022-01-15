@@ -38,13 +38,12 @@
 ## IDE
 &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
- 
+
+## About Me
 - I’m interested in web designing and :desktop_computer: developing an app. I love creating, designing and one day I will definitely create a website and/or application that everyone will use like Instagram 🦾!
 - :+1: I have very active internal mental processes, and confident individualism. I'm an INFJ; which means that I'm very creative, insightful, principled, passionate, and altruistic. I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organised and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practised through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
- 
-## About Me
  
 ## Hobbies
   - I love to read books! I regularly try to read new genres of book mostly adventure, sci-fi, fantasy, and mystery.

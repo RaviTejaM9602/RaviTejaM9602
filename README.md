@@ -44,9 +44,14 @@
 - :+1: I have very active internal mental processes, and confident individualism. I'm an INFJ; which means that I'm very creative, insightful, principled, passionate, and altruistic. I like to consider things thoughtfully before acting so that I can commit my energy confidently to a course of action. I’m a creative thinker who likes to entertain a wide range of possibilities. I like to focus on the facts whenever possible and let objective information guide my decisions and actions. I like  to stay organised and plan things out so that I can focus my energy on priorities.
 - :slightly_smiling_face: Through Microverse, I've learned to love collaboration; which we practised through remote pair programming. I found working in teams and solving challenges in groups to be very productive, insightful and challenging.
 &nbsp;
+ - I'm currently available for hire or open to new job opportunities. 
+
+## About Me
  
+- <p>You can check out my portfolio <a href="https://ravitejam9602.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+
 ## Hobbies
-  - I love to read books! I regularly try to read new genres of book mostly adventure, sci-fi, fantasy, and mystery.
+  - I love to read books! I regularly try to read new genres of book mostly history, novels.
   - I like listening to music 🎧 as it relieves my stress levels!
   - Love to travel to new Places ✈️ !
 &nbsp;

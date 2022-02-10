@@ -4,7 +4,7 @@
   <p align="left"><img src="https://komarev.com/ghpvc/?username=RaviTejaM9602&label=Views&color=blue&style=plastic" alt="RaviTejaM9602"/></p>
 </h2>
 
- <details>
+ <p>
   
   <summary>⚡ Quick facts</summary>
   
@@ -12,7 +12,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   
-</details>
+</p>
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RaviTejaM9602&show_icons=true&count private=true&theme=calm" width="412"/></a>

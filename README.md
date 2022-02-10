@@ -1,19 +1,18 @@
 <h2>
   Hi there 👋 
   <p>I'm Ravi Teja M</p>
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=RaviTejaM9602&label=Views&color=blue&style=plastic" alt="RaviTejaM9602"/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></p>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=RaviTejaM9602&label=Views&color=blue&style=plastic" alt="RaviTejaM9602"/></p>
 </h2>
 
- <p>
+
+ <details>
   
   <summary>⚡ Quick facts</summary>
   
-  💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using JavaScript. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
-
+  💻 I am a **<i>Full Stack Software Developer</i>** with hands-on experience in developing simple, responsive and dynamic websites using JavaScript, React. I have extensive soft skills like time management, handling expectations, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in a short period of time, and remote collaboration through pair programming. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+<p> <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> </p> 
   
-  
-</p>
+</details>
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RaviTejaM9602&show_icons=true&count private=true&theme=calm" width="412"/></a>
